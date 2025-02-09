@@ -32,14 +32,22 @@ Program do wyświetlania ekranu komputera na ekranie 480-szerokości i 320-wysok
 Będzie się długo łądował ekran z komputera i co chwile go aktualizował tesz długo
 
 
---Zdjęcia ekranu:
+--Zdjęcie ekranu:
 
 
 ![Tył Ekranu](https://github.com/user-attachments/assets/d0e9c698-fcc9-49af-8309-bfda2258aa4a)
 
 
-![Arduino uno](https://github.com/user-attachments/assets/0e6627fa-befa-40e3-9522-1396f3947e06)
-
-
 --Zdjęcie 
+
+
+![Arduino uno](https://github.com/user-attachments/assets/a81a7d33-7648-4e70-adb8-9b8ba9204e54)
+
+
+--Zdjęcie działąnia:
+
+
+![WIN_20250209_18_41_16_Pro](https://github.com/user-attachments/assets/41c92e07-0ae3-4feb-a81e-fc572c656f90)
+
+
 
