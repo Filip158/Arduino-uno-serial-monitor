@@ -44,10 +44,9 @@ Będzie się długo łądował ekran z komputera i co chwile go aktualizował te
 ![Arduino uno](https://github.com/user-attachments/assets/a81a7d33-7648-4e70-adb8-9b8ba9204e54)
 
 
---Zdjęcie działąnia:
+--Zdjęcie działąnia:    I tszeba troche poczekaci
 
 
 ![WIN_20250209_18_41_16_Pro](https://github.com/user-attachments/assets/41c92e07-0ae3-4feb-a81e-fc572c656f90)
-
 
 
