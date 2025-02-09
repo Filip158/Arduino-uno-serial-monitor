@@ -27,4 +27,19 @@ Program do wyświetlania ekranu komputera na ekranie 480-szerokości i 320-wysok
 ![Zrzut ekranu 2025-02-09 182649](https://github.com/user-attachments/assets/5dbb8a30-71c9-4add-9cc7-57850101de00)
 
 
+*Po włączemiu kodu w aplikacji Processing pokarze się na arduino napis Monitor_OS-USB i po tym po chwili zacznie malowaci ekran .
+
+Będzie się długo łądował ekran z komputera i co chwile go aktualizował tesz długo
+
+
+--Zdjęcia ekranu:
+
+
+![Tył Ekranu](https://github.com/user-attachments/assets/d0e9c698-fcc9-49af-8309-bfda2258aa4a)
+
+
+![Arduino uno](https://github.com/user-attachments/assets/0e6627fa-befa-40e3-9522-1396f3947e06)
+
+
+--Zdjęcie 
 
