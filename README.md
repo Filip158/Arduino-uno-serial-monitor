@@ -38,7 +38,7 @@ Będzie się długo łądował ekran z komputera i co chwile go aktualizował te
 ![Tył Ekranu](https://github.com/user-attachments/assets/d0e9c698-fcc9-49af-8309-bfda2258aa4a)
 
 
---Zdjęcie 
+--Zdjęcie arduino uno
 
 
 ![Arduino uno](https://github.com/user-attachments/assets/a81a7d33-7648-4e70-adb8-9b8ba9204e54)
